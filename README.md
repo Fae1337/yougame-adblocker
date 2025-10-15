@@ -1,9 +1,38 @@
-# yougame-adblocker
-yougame adblocker, da
+# YouGame Adblocker v15.10.2025
 
-Guide: https://telegra.ph/Yougame-adblocker---blokirovshchik-reklamnyh-bannerov-10-04
-<details close>
-<summary>Credits (важно (очень (нет)))</summary>
-<img src="message.png">   
-<img src="thread.png">   
-</details>
+Блокировщик рекламных баннеров для форума YouGame. Протестирован в течение 2 месяцев без обнаружения багов.
+
+## [ Supported browsers ]
+
+- Google Chrome
+- Microsoft Edge
+- Mozilla Firefox
+  
+## [ How Install ]
+
+Для Chrome:
+1. Откройте браузер и перейдите по адресу: `chrome://extensions/`.
+
+2. Включите **Режим разработчика** (переключатель в правом верхнем углу).
+
+3. Нажмите **Загрузить распакованное расширение**.
+
+4. Выберите папку `chrome-edge` из репозитория.
+
+Для Edge:
+1. Откройте браузер и перейдите по адресу: `edge://extensions/`.
+
+2. Включите **Режим разработчика** (переключатель в левом меню).
+
+3. Нажмите **Загрузить распакованное**.
+
+4. Выберите папку `chrome-edge` из репозитория.
+
+Для FireFox:
+1. Откройте браузер и перейдите по адресу: 
+
+`about:debugging#/runtime/this-firefox`.
+
+2. Нажмите **Загрузить временное дополнение**.
+
+3. Выберите файл `manifest.json` в папке `firefox` из репозитория.
