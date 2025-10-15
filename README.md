@@ -2,13 +2,16 @@
 
 Блокировщик рекламных баннеров для форума YouGame. Протестирован в течение 2 месяцев без обнаружения багов.
 
-## [ Supported browsers ]
-
+<p align="center">
+  ## [ Supported browsers ]
+</p>
 - Google Chrome
 - Microsoft Edge
 - Mozilla Firefox
-  
-## [ How Install ]
+
+<p align="center">
+  ## [ How Install ]
+</p>
 
 Для Chrome:
 1. Откройте браузер и перейдите по адресу: `chrome://extensions/`.
